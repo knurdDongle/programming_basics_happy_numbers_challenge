@@ -1,6 +1,6 @@
 const happyNumber = function(number)
 {
-// BEGIN (write your solution here)
+// BEGIN
   const sum = function(num)
   {
     let arr = String(num).split('');
